@@ -71,7 +71,7 @@
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:NM-Parshin@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ParshinNM)
-[![Website Badge](https://img.shields.io/badge/-МОЯ%20ВИЗИТКА-000000?style=flat-square&logo=Globe&logoColor=red)](https://nikita-parshin.github.io/)
+[![Website Badge](https://img.shields.io/badge/-САЙТ%20ВИЗИТКА-000000?style=flat-square&logo=Globe&logoColor=red)](https://nikita-parshin.github.io/)
 
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
